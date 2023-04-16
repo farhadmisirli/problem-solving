@@ -9,4 +9,4 @@ My HackerRank profile (https://www.hackerrank.com/farhadmisirli)
 | 3   | Permutation of palindrome | [Solution](Arrays/permutation_of_palindrome.py) | Array 
 | 4   | String Compression        | [Solution](Arrays/string_compression.py)        | Array 
 | 5   | String Rotation           | [Solution](Arrays/string_rotation.py)           | Array 
-| 5   | Remove Duplicates         | [Solution](Linked Lists/remove_duplicates.py)           | Linked List 
+| 5   | Remove Duplicates         | [Solution](Linked-Lists/remove_duplicates.py)   | Linked List 
